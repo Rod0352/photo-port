@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- run test npm install @testing-library/react @testing-library/jest-dom --save-dev
+The React Testing Library, which provides functions that will help test React components, including the capacity to render components and query functions that can return DOM elements.
+
+The jest-dom package, which is a library that extends Jest with custom matchers to enable inspection of various parts of the DOM.
+
+
+ -->
